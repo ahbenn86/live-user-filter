@@ -15,4 +15,3 @@
 * CSS
 * Javascript
 * Fetch API
-* 

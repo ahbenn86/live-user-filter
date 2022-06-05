@@ -2,9 +2,7 @@
 ### Fetches and filters users from an api.  
 <br/>
 
-![Insert Image Link Here]()
-
-> Currently under development 
+<a href="https://ahbenn86.github.io/live-user-filter/">Click to view Live</a>
 
 <br/>
 
